@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AllFilters
+comment1.params=
+comment1.target=AllFilters()
+comment2.params=f
+comment2.target=void\ addFilter(Filter)
+comment3.params=f
+comment3.target=void\ removeFilter(Filter)
+comment4.params=id
+comment4.target=boolean\ satisfies(java.lang.String)
+numComments=5
